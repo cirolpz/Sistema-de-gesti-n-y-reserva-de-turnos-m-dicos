@@ -30,17 +30,15 @@ Desarrollar un sistema centralizado que permita:
 
 ├── 📄 Diagramas
 
-│ ├── Diagrama_de_Clases.png
+│ ├── Diagrama_de_Clases
 
 │ ├── Diagramas_de_Secuencia/
 
 │ └── Diagramas_de_Actividad/
 
-├── 📄 Historias_de_Usuario.pdf
+├── 📄 Dirección del Prototipado
 
-├── 📄 Prototipado_UI/
-
-├── 📄 Casos_de_Testing.pdf
+├── 📄 Casos_de_Testing.xlsx
 
 └── README.md
 
