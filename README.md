@@ -23,16 +23,27 @@ Desarrollar un sistema centralizado que permita:
 ---
 
 ## 📂 Contenido del Repositorio
+
 📁 raiz-del-proyecto
+
 ├── 📄 BRD - Documento de Requerimientos de Negocio.pdf
+
 ├── 📄 Diagramas
+
 │ ├── Diagrama_de_Clases.png
+
 │ ├── Diagramas_de_Secuencia/
+
 │ └── Diagramas_de_Actividad/
+
 ├── 📄 Historias_de_Usuario.pdf
+
 ├── 📄 Prototipado_UI/
+
 ├── 📄 Casos_de_Testing.pdf
+
 └── README.md
+
 
 Cada carpeta contiene los artefactos generados durante el análisis del sistema según los estándares de UNGS y del proceso de Especificación y Verificación de Software.
 
